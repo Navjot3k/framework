@@ -3,7 +3,7 @@
    <parameter name="grid" value="no"/>
    <parameter name="gridURL" value=" https://oauth-navjot3k-09ebe:11a4f943-e30b-483a-99dd-9a58e267b549@ondemand.us-west-1.saucelabs.com:443/wd/hub"/>
    <parameter name="browser" value="chrome"/>
-   <parameter name="appURL" value="http://www.fb.com"/>
+   <parameter name="appURL" value="https://opensource-demo.orangehrmlive.com/"/>
    <parameter name="ITO" value="10"/>
    <parameter name="ETO" value="9"/>
     <packages>
